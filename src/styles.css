@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.download-table-xls-button {
+  display: block;
+  width: 100%;
+  padding: 14px 12px;
+  font-weight: bold;
+  border: none;
+  background: paleturquoise;
+  margin-bottom: 40px;
+  color: sienna;
+}
+.table {
+  width: 500px;
+  padding: 10px;
+}
+.row {
+  background: salmon;
+}
+.row th {
+  margin-bottom: 20px !important;
+  padding: 12px;
+}
